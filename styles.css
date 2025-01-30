@@ -1,14 +1,12 @@
 /*  your css c;ode here. If applicable */
-td:first-child {
-    text-align: left;
+#t11{
+	text-align: left;
 }
-
-td:nth-child(2) {
-    text-align: center;
+#t12{
+	text-align: center;
 }
-
-td:last-child {
-    text-align: right;
+#t13{
+	text-align: right;
 }
 
 #table-1 , #table-2 , #table-3{
@@ -19,13 +17,12 @@ td:last-child {
 	padding: 1px;
 }
 
-
 td {
     border: 1px solid black;
     height: 10px;
 }
-#t-image td{
-	width: 250px
+#table-3 td{
+	width: 270px;
 }
 .green{
 	background-color: green;
